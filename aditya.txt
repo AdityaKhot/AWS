@@ -1,2 +1,3 @@
 I am Aditya
 I am a Cloud and DevOps engineer
+I am based from Bengaluru, India.
